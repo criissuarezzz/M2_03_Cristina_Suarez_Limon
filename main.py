@@ -24,3 +24,6 @@ print("\n")
 
 print("Ejercicio 3:")
 print("\n")
+print('La altura es de {height}, y el peso es de {weight}.'.format( height='1.80m', weight='80,135 KG'))
+print('La altura es de {}, y el peso es de {}.'.format('1.80m', '80.135 KG'))
+print('La altura es de {0}, y el peso es de {1}.'.format('1.80m', '80.135 KG'))
